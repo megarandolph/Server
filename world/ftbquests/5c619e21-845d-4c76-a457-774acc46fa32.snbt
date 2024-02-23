@@ -1,0 +1,12 @@
+{
+	version: 1
+	uuid: "5c619e21845d4c76a457774acc46fa32"
+	name: "Megarandolph#5c619e21"
+	lock: false
+	rewards_blocked: false
+	task_progress: { }
+	started: { }
+	completed: { }
+	claimed_rewards: { }
+	player_data: { }
+}

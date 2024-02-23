@@ -1,0 +1,15 @@
+{
+	id: "5c619e21-845d-4c76-a457-774acc46fa32"
+	type: "player"
+	player_name: "Megarandolph"
+	ranks: { }
+	properties: {
+		"ftbteams:display_name": "Megarandolph"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [ ]
+	extra: { }
+}

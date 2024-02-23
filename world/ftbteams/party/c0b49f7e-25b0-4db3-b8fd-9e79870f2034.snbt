@@ -1,0 +1,22 @@
+{
+	id: "c0b49f7e-25b0-4db3-b8fd-9e79870f2034"
+	type: "party"
+	owner: "5c619e21-845d-4c76-a457-774acc46fa32"
+	ranks: {
+		5c619e21-845d-4c76-a457-774acc46fa32: "owner"
+		47a87311-4e01-4ae5-a74d-5e3260fca391: "member"
+	}
+	properties: {
+		"ftbteams:display_name": "TheEnglishSpeaker"
+		"ftbteams:description": ""
+		"ftbteams:color": "#595DFF"
+		"ftbteams:free_to_join": 0b
+		"ftbteams:max_msg_history_size": 1000
+	}
+	message_history: [
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1708482805277L, text: "{\"color\":\"yellow\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"Megarandolph\"}]}" }
+		{ from: "5c619e21-845d-4c76-a457-774acc46fa32", date: 1708482815884L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.invited\",\"with\":[{\"color\":\"yellow\",\"text\":\"DDragonSlayer\"}]}" }
+		{ from: "00000000-0000-0000-0000-000000000000", date: 1708482818401L, text: "{\"color\":\"green\",\"translate\":\"ftbteams.message.joined\",\"with\":[{\"text\":\"DDragonSlayer\"}]}" }
+	]
+	extra: { }
+}

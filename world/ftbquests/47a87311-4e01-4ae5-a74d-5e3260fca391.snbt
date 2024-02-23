@@ -1,0 +1,22 @@
+{
+	version: 1
+	uuid: "47a873114e014ae5a74d5e3260fca391"
+	name: "DDragonSlayer#47a87311"
+	lock: false
+	rewards_blocked: false
+	task_progress: {
+		0470194500CBE26C: 1
+	}
+	started: {
+		1D4E5CDD59FFB7A0: 1708482521827L
+		2574E7CF699D5B45: 1708482521827L
+		0470194500CBE26C: 1708482521827L
+		0000000000000001: 1708482521827L
+	}
+	completed: {
+		2574E7CF699D5B45: 1708482521841L
+		0470194500CBE26C: 1708482521841L
+	}
+	claimed_rewards: { }
+	player_data: { }
+}
